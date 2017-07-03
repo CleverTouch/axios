@@ -1,5 +1,7 @@
 # axios
 
+Temporary fork to include patches from https://github.com/mzabriskie/axios/pull/959 to fix cross-protocol proxy requests. To delete once fixed in axios core. Do not rely on this package.
+
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
 [![build status](https://img.shields.io/travis/mzabriskie/axios.svg?style=flat-square)](https://travis-ci.org/mzabriskie/axios)
 [![code coverage](https://img.shields.io/coveralls/mzabriskie/axios.svg?style=flat-square)](https://coveralls.io/r/mzabriskie/axios)
